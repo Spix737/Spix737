@@ -6,8 +6,8 @@ If you'd like to contact me, feel free to connect with me on LinkedIn!
 
 ## Current Projects:
 
-[Hackerrank Coding Practice](https://github.com/Spix737/HackerRankSolns)
-University Work - will be made public on github soon!
+- [Hackerrank Coding Practice](https://github.com/Spix737/HackerRankSolns)
+- University Work - will be made public on github soon!
 
 ## 💻 Programming Languages
 
