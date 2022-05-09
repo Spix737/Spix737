@@ -2,9 +2,10 @@
 
 I'm a second-year Computer Science undergraduate at the University of Plymouth 🎓.
 
-If you'd like to contact me, feel free to connect with me on LinkedIn!
+If you'd like to contact me, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/spyridonbabalitis/)!
 
-## Current Projects:
+
+## 📚 Current Projects:
 
 - [Hackerrank Coding Practice](https://github.com/Spix737/HackerRankSolns)
 - University Work - will be made public on github soon!
