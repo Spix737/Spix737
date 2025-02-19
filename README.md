@@ -2,7 +2,7 @@
 
 I'm an Artificial Intelligence Postgraduate student at Queen Mary University of London and a Computer Science graduate from the University of Plymouth 🎓.
 
-If you'd like to contact me, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/spyridonbabalitis/)!
+If you'd like to contact me, feel free to reach out with me on [LinkedIn](https://www.linkedin.com/in/spyridonbabalitis/)!
 
 <!--
 ## 📚 Current Projects
@@ -13,7 +13,11 @@ If you'd like to contact me, feel free to connect with me on [LinkedIn](https://
 
 ## 💻 Programming Languages
 
-Python | Java | C# | C++ | JavaScript (React, node) | SQL
+Python | JavaScript (React, node) | Java | C# | C++ | CUDA | SQL
+
+## 🤖 AI/ML Libraries
+
+PyTorch | Tensorflow | pandas | numpy | sklearn
 
 ## 🧠 Technical Skills
 
